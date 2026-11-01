@@ -56,15 +56,15 @@ Dataset ini disusun untuk memenuhi **Soal Tugas 2 (SubCPMK-2)** pada Ujian Tenga
 | Domain | Hukum pidana khusus |
 | Klasifikasi perkara | Narkotika dan Psikotropika |
 | Sumber | [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html) |
-| Pengadilan | *[isi nama Pengadilan Negeri yang dipilih]* |
-| Tahun putusan | *[isi tahun, direkomendasikan 2023 – 2025]* |
+| Pengadilan | PN Bojonegoro |
+| Tahun putusan | 2023-2025 |
 | Jumlah dokumen | 5 putusan (PDF) |
 | Jumlah baris ringkasan | 5 |
 | Kolom ringkasan | `No`, `No Putusan`, `Lembaga Peradilan`, `Barang Bukti`, `Amar Putusan` |
 | Status putusan | Belum berkekuatan hukum tetap |
 | Bahasa | Indonesia (ragam bahasa hukum) |
 | Metode ekstraksi | Rule-based (regular expression) dengan Python |
-| Tanggal pengambilan data | *[isi tanggal]* |
+| Tanggal pengambilan data | 29 Oktober 2026 |
 
 ## Struktur Repositori
 
