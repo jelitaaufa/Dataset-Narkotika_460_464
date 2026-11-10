@@ -58,8 +58,8 @@ Dataset ini disusun untuk memenuhi **Soal Tugas 2 (SubCPMK-2)** pada Ujian Tenga
 | Sumber | [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html) |
 | Pengadilan | PN Bojonegoro |
 | Tahun putusan | 2023-2025 |
-| Jumlah dokumen | 5 putusan (PDF) |
-| Jumlah baris ringkasan | 5 |
+| Jumlah dokumen | 50 putusan (PDF) |
+| Jumlah baris ringkasan | 50 |
 | Kolom ringkasan | `No`, `No Putusan`, `Lembaga Peradilan`, `Barang Bukti`, `Amar Putusan` |
 | Status putusan | Belum berkekuatan hukum tetap |
 | Bahasa | Indonesia (ragam bahasa hukum) |
